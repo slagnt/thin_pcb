@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name sw_Push)(type Legacy)(uri D:/Downloads/Universal-Switch-Footprint-master/Universal-Switch-Footprint-master/sw_Push.lib)(options "")(descr ""))
+  (lib (name sw_withled)(type Legacy)(uri D:/Downloads/Universal-Switch-Footprint-master/Universal-Switch-Footprint-master/sw_withled.lib)(options "")(descr ""))
+)

@@ -1,0 +1,5 @@
+*.bak
+thin_pcb.pdf
+lib.pretty/Triple-Dual-1u.kicad_mod
+lib.pretty/Triple-Dual-1u-LED.kicad_mod
+thin_pcb.kicad_pcb-bak

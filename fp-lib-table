@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Universal-Switch-Footprint)(type KiCad)(uri D:/Downloads/Universal-Switch-Footprint-master/Universal-Switch-Footprint-master/Universal-Switch-Footprint.pretty)(options "")(descr ""))
+  (lib (name Keebio-Parts)(type KiCad)(uri D:/Downloads/Keebio-Parts.pretty-master)(options "")(descr ""))
+  (lib (name lib)(type KiCad)(uri ${KIPRJMOD}/lib.pretty)(options "")(descr ""))
+)
