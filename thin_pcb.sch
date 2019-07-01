@@ -407,11 +407,11 @@ Text GLabel 9050 5800 2    50   Input ~ 0
 SDA
 Text GLabel 9050 5700 2    50   Input ~ 0
 SCL
-Text GLabel 3000 1100 3    50   Input ~ 0
+Text GLabel 2700 1100 3    50   Input ~ 0
 MISO
-Text GLabel 2900 1100 3    50   Input ~ 0
+Text GLabel 2600 1100 3    50   Input ~ 0
 MOSI
-Text GLabel 3200 1100 3    50   Input ~ 0
+Text GLabel 2500 1100 3    50   Input ~ 0
 SCLK
 $Comp
 L power:VCC #PWR0115
@@ -424,7 +424,7 @@ F 3 "" H 3150 4450 50  0001 C CNN
 	1    3150 4450
 	1    0    0    -1  
 $EndComp
-Text GLabel 3100 1100 3    50   Input ~ 0
+Text GLabel 2800 1100 3    50   Input ~ 0
 RESET
 $Comp
 L power:GND #PWR0118
@@ -1219,9 +1219,9 @@ F 3 "" H 8600 3450 50  0001 C CNN
 $EndComp
 Text GLabel 2500 4400 2    50   Input ~ 0
 COL1
-Text GLabel 2500 4800 2    50   Input ~ 0
+Text GLabel 2500 1900 2    50   Input ~ 0
 COL2
-Text GLabel 3300 3150 2    50   Input ~ 0
+Text GLabel 2500 4300 2    50   Input ~ 0
 COL3
 Text GLabel 2500 3400 2    50   Input ~ 0
 COL4
@@ -1256,9 +1256,9 @@ D2
 Wire Wire Line
 	2250 4400 2500 4400
 Wire Wire Line
-	2250 4800 2500 4800
+	2250 1900 2500 1900
 Wire Wire Line
-	3050 3150 3300 3150
+	2250 4300 2500 4300
 Wire Wire Line
 	2250 3400 2500 3400
 Text GLabel 2250 3400 2    50   Input ~ 0
@@ -1297,7 +1297,7 @@ Wire Wire Line
 	3100 3500 3350 3500
 Wire Wire Line
 	3100 3600 3350 3600
-Text GLabel 2800 1100 3    50   Input ~ 0
+Text GLabel 3450 1650 3    50   Input ~ 0
 E6
 $Comp
 L power:VBUS #PWR0107
@@ -1503,11 +1503,11 @@ Text GLabel 3650 4550 2    50   Input ~ 0
 SDA
 Text GLabel 3650 4450 2    50   Input ~ 0
 SCL
-Text GLabel 2500 1100 3    50   Input ~ 0
+Text GLabel 3150 1650 3    50   Input ~ 0
 D6
-Text GLabel 2600 1100 3    50   Input ~ 0
+Text GLabel 3250 1650 3    50   Input ~ 0
 D5
-Text GLabel 2700 1100 3    50   Input ~ 0
+Text GLabel 3350 1650 3    50   Input ~ 0
 B6
 Text GLabel 4800 5000 0    50   Input ~ 0
 B7
@@ -2358,11 +2358,11 @@ Text GLabel 4450 1300 0    50   Input ~ 0
 ROW2
 Text GLabel 4450 850  0    50   Input ~ 0
 ROW1
-Text GLabel 4450 1100 0    50   Input ~ 0
-COL1
-Text GLabel 4450 1500 0    50   Input ~ 0
-COL2
 Text GLabel 4450 1850 0    50   Input ~ 0
+COL1
+Text GLabel 4450 1100 0    50   Input ~ 0
+COL2
+Text GLabel 4450 1500 0    50   Input ~ 0
 COL3
 Text GLabel 4450 2250 0    50   Input ~ 0
 COL4
