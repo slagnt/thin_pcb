@@ -1214,7 +1214,7 @@ Text GLabel 2450 6600 2    50   Input ~ 0
 COL3
 Text GLabel 2450 5800 2    50   Input ~ 0
 COL4
-Text GLabel 2700 4300 2    50   Input ~ 0
+Text GLabel 2800 4300 2    50   Input ~ 0
 COL5
 Text GLabel 2450 6300 2    50   Input ~ 0
 ROW1
@@ -1448,17 +1448,6 @@ F 2 "Connector_PinSocket_2.54mm:PinSocket_2x02_P2.54mm_Vertical" H 3750 4150 50 
 F 3 "~" H 3750 4150 50  0001 C CNN
 	1    3750 4150
 	1    0    0    -1  
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x06 J4
-U 1 1 5D135878
-P 3350 4600
-F 0 "J4" V 3450 4300 50  0000 C CNN
-F 1 "Conn_01x06" V 3450 4600 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical" H 3350 4600 50  0001 C CNN
-F 3 "~" H 3350 4600 50  0001 C CNN
-	1    3350 4600
-	0    -1   -1   0   
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x06 J5
@@ -1862,10 +1851,6 @@ F 3 "~" H 7100 3750 50  0001 C CNN
 	1    7100 3750
 	1    0    0    -1  
 $EndComp
-Text GLabel 6900 3650 0    50   Input ~ 0
-MISO
-Text GLabel 6900 3450 0    50   Input ~ 0
-SCLK
 $Comp
 L Connector_Generic:Conn_01x02 J7
 U 1 1 5D13CA52
@@ -1883,36 +1868,15 @@ Connection ~ 6100 6850
 Wire Wire Line
 	5100 7050 5100 6850
 Connection ~ 5100 6850
-$Comp
-L Mechanical:MountingHole H1
-U 1 1 5D153378
-P 10150 4950
-F 0 "H1" H 10250 4996 50  0000 L CNN
-F 1 "MountingHole" H 10250 4905 50  0000 L CNN
-F 2 "MountingHole:MountingHole_4mm" H 10150 4950 50  0001 C CNN
-F 3 "~" H 10150 4950 50  0001 C CNN
-	1    10150 4950
-	1    0    0    -1  
-$EndComp
-Text GLabel 6900 4350 0    50   Input ~ 0
+Text GLabel 6700 4350 0    50   Input ~ 0
 ROW5
-Text GLabel 6900 3750 0    50   Input ~ 0
+Text GLabel 6700 3750 0    50   Input ~ 0
 ROW4
-Text GLabel 6900 2850 0    50   Input ~ 0
+Text GLabel 6700 2850 0    50   Input ~ 0
 ROW3
-Text GLabel 6900 1950 0    50   Input ~ 0
-ROW2
-Text GLabel 6900 1350 0    50   Input ~ 0
-ROW1
-Text GLabel 6900 2650 0    50   Input ~ 0
-COL1
-Text GLabel 6900 1750 0    50   Input ~ 0
-COL2
-Text GLabel 6900 2150 0    50   Input ~ 0
-COL3
-Text GLabel 6900 3050 0    50   Input ~ 0
+Text GLabel 6700 3050 0    50   Input ~ 0
 COL4
-Text GLabel 6900 3550 0    50   Input ~ 0
+Text GLabel 6700 3550 0    50   Input ~ 0
 COL5
 Connection ~ 900  1300
 Connection ~ 1200 900 
@@ -2001,15 +1965,15 @@ Text GLabel 6900 2050 0    50   Input ~ 0
 F6
 Text GLabel 6900 1650 0    50   Input ~ 0
 C7
-Text GLabel 6900 1150 0    50   Input ~ 0
+Text GLabel 6700 1150 0    50   Input ~ 0
 SDA
-Text GLabel 6900 1250 0    50   Input ~ 0
+Text GLabel 6700 1250 0    50   Input ~ 0
 SCL
 $Comp
-L Connector_Generic:Conn_01x02 J1
+L Connector_Generic:Conn_01x02 J01
 U 1 1 5D30A7DD
 P 7100 750
-F 0 "J1" H 7200 800 50  0000 L CNN
+F 0 "J01" H 7200 800 50  0000 L CNN
 F 1 "Conn_01x02" H 6900 900 50  0000 L CNN
 F 2 "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" H 7100 750 50  0001 C CNN
 F 3 "~" H 7100 750 50  0001 C CNN
@@ -2039,10 +2003,10 @@ F 3 "" H 6900 850 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x02 J2
+L Connector_Generic:Conn_01x02 J02
 U 1 1 5D30BAF6
 P 7600 750
-F 0 "J2" H 7700 800 50  0000 L CNN
+F 0 "J02" H 7700 800 50  0000 L CNN
 F 1 "Conn_01x02" H 7400 900 50  0000 L CNN
 F 2 "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" H 7600 750 50  0001 C CNN
 F 3 "~" H 7600 750 50  0001 C CNN
@@ -2050,10 +2014,10 @@ F 3 "~" H 7600 750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x02 J4
+L Connector_Generic:Conn_01x02 J04
 U 1 1 5D324FC9
 P 8600 750
-F 0 "J4" H 8700 800 50  0000 L CNN
+F 0 "J04" H 8700 800 50  0000 L CNN
 F 1 "Conn_01x02" H 8400 900 50  0000 L CNN
 F 2 "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" H 8600 750 50  0001 C CNN
 F 3 "~" H 8600 750 50  0001 C CNN
@@ -2061,10 +2025,10 @@ F 3 "~" H 8600 750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x02 J6
+L Connector_Generic:Conn_01x02 J06
 U 1 1 5D33E49F
 P 9600 750
-F 0 "J6" H 9700 800 50  0000 L CNN
+F 0 "J06" H 9700 800 50  0000 L CNN
 F 1 "Conn_01x02" H 9400 900 50  0000 L CNN
 F 2 "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" H 9600 750 50  0001 C CNN
 F 3 "~" H 9600 750 50  0001 C CNN
@@ -2072,10 +2036,10 @@ F 3 "~" H 9600 750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x02 J7
+L Connector_Generic:Conn_01x02 J07
 U 1 1 5D357976
 P 10100 750
-F 0 "J7" H 10200 800 50  0000 L CNN
+F 0 "J07" H 10200 800 50  0000 L CNN
 F 1 "Conn_01x02" H 9900 900 50  0000 L CNN
 F 2 "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" H 10100 750 50  0001 C CNN
 F 3 "~" H 10100 750 50  0001 C CNN
@@ -2083,10 +2047,10 @@ F 3 "~" H 10100 750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x02 J8
+L Connector_Generic:Conn_01x02 J08
 U 1 1 5D370E52
 P 10600 750
-F 0 "J8" H 10700 800 50  0000 L CNN
+F 0 "J08" H 10700 800 50  0000 L CNN
 F 1 "Conn_01x02" H 10400 900 50  0000 L CNN
 F 2 "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" H 10600 750 50  0001 C CNN
 F 3 "~" H 10600 750 50  0001 C CNN
@@ -2123,8 +2087,6 @@ Text GLabel 6900 2550 0    50   Input ~ 0
 F7
 Text GLabel 6900 3150 0    50   Input ~ 0
 D3
-Wire Wire Line
-	2200 4300 2700 4300
 Connection ~ 6900 850 
 Connection ~ 6900 750 
 Connection ~ 2650 900 
@@ -2777,4 +2739,356 @@ Wire Wire Line
 Connection ~ 9900 4350
 Wire Wire Line
 	9900 4350 10400 4350
+$Comp
+L Connector_Generic:Conn_01x06 J4
+U 1 1 5D78008C
+P 3350 4600
+F 0 "J4" V 3450 4300 50  0000 C CNN
+F 1 "Conn_01x06" V 3450 4600 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical" H 3350 4600 50  0001 C CNN
+F 3 "~" H 3350 4600 50  0001 C CNN
+	1    3350 4600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Mechanical:MountingHole H55
+U 1 1 5D69724A
+P 5600 2750
+F 0 "H55" H 5700 2796 50  0000 L CNN
+F 1 "MountingHole" H 5700 2705 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4mm" H 5600 2750 50  0001 C CNN
+F 3 "~" H 5600 2750 50  0001 C CNN
+	1    5600 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H54
+U 1 1 5D697243
+P 5600 2550
+F 0 "H54" H 5700 2596 50  0000 L CNN
+F 1 "MountingHole" H 5700 2505 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4mm" H 5600 2550 50  0001 C CNN
+F 3 "~" H 5600 2550 50  0001 C CNN
+	1    5600 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H53
+U 1 1 5D69723C
+P 5600 2350
+F 0 "H53" H 5700 2396 50  0000 L CNN
+F 1 "MountingHole" H 5700 2305 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4mm" H 5600 2350 50  0001 C CNN
+F 3 "~" H 5600 2350 50  0001 C CNN
+	1    5600 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H52
+U 1 1 5D697235
+P 5600 2150
+F 0 "H52" H 5700 2196 50  0000 L CNN
+F 1 "MountingHole" H 5700 2105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4mm" H 5600 2150 50  0001 C CNN
+F 3 "~" H 5600 2150 50  0001 C CNN
+	1    5600 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H51
+U 1 1 5D69722E
+P 5600 1950
+F 0 "H51" H 5700 1996 50  0000 L CNN
+F 1 "MountingHole" H 5700 1905 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4mm" H 5600 1950 50  0001 C CNN
+F 3 "~" H 5600 1950 50  0001 C CNN
+	1    5600 1950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H50
+U 1 1 5D697227
+P 5600 1750
+F 0 "H50" H 5700 1796 50  0000 L CNN
+F 1 "MountingHole" H 5700 1705 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4mm" H 5600 1750 50  0001 C CNN
+F 3 "~" H 5600 1750 50  0001 C CNN
+	1    5600 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H15
+U 1 1 5D697220
+P 5600 1550
+F 0 "H15" H 5700 1596 50  0000 L CNN
+F 1 "MountingHole" H 5700 1505 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4mm" H 5600 1550 50  0001 C CNN
+F 3 "~" H 5600 1550 50  0001 C CNN
+	1    5600 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H14
+U 1 1 5D697219
+P 5600 1350
+F 0 "H14" H 5700 1396 50  0000 L CNN
+F 1 "MountingHole" H 5700 1305 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4mm" H 5600 1350 50  0001 C CNN
+F 3 "~" H 5600 1350 50  0001 C CNN
+	1    5600 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H13
+U 1 1 5D697212
+P 5600 1150
+F 0 "H13" H 5700 1196 50  0000 L CNN
+F 1 "MountingHole" H 5700 1105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4mm" H 5600 1150 50  0001 C CNN
+F 3 "~" H 5600 1150 50  0001 C CNN
+	1    5600 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H11
+U 1 1 5D69720B
+P 5600 950
+F 0 "H11" H 5700 996 50  0000 L CNN
+F 1 "MountingHole" H 5700 905 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4mm" H 5600 950 50  0001 C CNN
+F 3 "~" H 5600 950 50  0001 C CNN
+	1    5600 950 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H10
+U 1 1 5D697204
+P 5600 750
+F 0 "H10" H 5700 796 50  0000 L CNN
+F 1 "MountingHole" H 5700 705 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4mm" H 5600 750 50  0001 C CNN
+F 3 "~" H 5600 750 50  0001 C CNN
+	1    5600 750 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H42
+U 1 1 5D696EAE
+P 4800 2950
+F 0 "H42" H 4900 2996 50  0000 L CNN
+F 1 "MountingHole" H 4900 2905 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4mm" H 4800 2950 50  0001 C CNN
+F 3 "~" H 4800 2950 50  0001 C CNN
+	1    4800 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H35
+U 1 1 5D696D84
+P 4800 2750
+F 0 "H35" H 4900 2796 50  0000 L CNN
+F 1 "MountingHole" H 4900 2705 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4mm" H 4800 2750 50  0001 C CNN
+F 3 "~" H 4800 2750 50  0001 C CNN
+	1    4800 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H34
+U 1 1 5D696C60
+P 4800 2550
+F 0 "H34" H 4900 2596 50  0000 L CNN
+F 1 "MountingHole" H 4900 2505 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4mm" H 4800 2550 50  0001 C CNN
+F 3 "~" H 4800 2550 50  0001 C CNN
+	1    4800 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H33
+U 1 1 5D696B30
+P 4800 2350
+F 0 "H33" H 4900 2396 50  0000 L CNN
+F 1 "MountingHole" H 4900 2305 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4mm" H 4800 2350 50  0001 C CNN
+F 3 "~" H 4800 2350 50  0001 C CNN
+	1    4800 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H32
+U 1 1 5D696A10
+P 4800 2150
+F 0 "H32" H 4900 2196 50  0000 L CNN
+F 1 "MountingHole" H 4900 2105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4mm" H 4800 2150 50  0001 C CNN
+F 3 "~" H 4800 2150 50  0001 C CNN
+	1    4800 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H31
+U 1 1 5D6968F2
+P 4800 1950
+F 0 "H31" H 4900 1996 50  0000 L CNN
+F 1 "MountingHole" H 4900 1905 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4mm" H 4800 1950 50  0001 C CNN
+F 3 "~" H 4800 1950 50  0001 C CNN
+	1    4800 1950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H30
+U 1 1 5D69663C
+P 4800 1750
+F 0 "H30" H 4900 1796 50  0000 L CNN
+F 1 "MountingHole" H 4900 1705 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4mm" H 4800 1750 50  0001 C CNN
+F 3 "~" H 4800 1750 50  0001 C CNN
+	1    4800 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H05
+U 1 1 5D696510
+P 4800 1550
+F 0 "H05" H 4900 1596 50  0000 L CNN
+F 1 "MountingHole" H 4900 1505 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4mm" H 4800 1550 50  0001 C CNN
+F 3 "~" H 4800 1550 50  0001 C CNN
+	1    4800 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H04
+U 1 1 5D6963F8
+P 4800 1350
+F 0 "H04" H 4900 1396 50  0000 L CNN
+F 1 "MountingHole" H 4900 1305 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4mm" H 4800 1350 50  0001 C CNN
+F 3 "~" H 4800 1350 50  0001 C CNN
+	1    4800 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H03
+U 1 1 5D6962D8
+P 4800 1150
+F 0 "H03" H 4900 1196 50  0000 L CNN
+F 1 "MountingHole" H 4900 1105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4mm" H 4800 1150 50  0001 C CNN
+F 3 "~" H 4800 1150 50  0001 C CNN
+	1    4800 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H01
+U 1 1 5D69602E
+P 4800 950
+F 0 "H01" H 4900 996 50  0000 L CNN
+F 1 "MountingHole" H 4900 905 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4mm" H 4800 950 50  0001 C CNN
+F 3 "~" H 4800 950 50  0001 C CNN
+	1    4800 950 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H00
+U 1 1 5D153378
+P 4800 750
+F 0 "H00" H 4900 796 50  0000 L CNN
+F 1 "MountingHole" H 4900 705 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4mm" H 4800 750 50  0001 C CNN
+F 3 "~" H 4800 750 50  0001 C CNN
+	1    4800 750 
+	1    0    0    -1  
+$EndComp
+Text GLabel 6900 1950 0    50   Input ~ 0
+F4
+Text GLabel 6900 2150 0    50   Input ~ 0
+F1
+Text GLabel 6900 1350 0    50   Input ~ 0
+E6
+Text GLabel 6900 1750 0    50   Input ~ 0
+B0
+Text GLabel 6900 2650 0    50   Input ~ 0
+B4
+Text GLabel 6700 2650 0    50   Input ~ 0
+COL1
+Text GLabel 6700 1750 0    50   Input ~ 0
+COL2
+Text GLabel 6700 2150 0    50   Input ~ 0
+COL3
+Text GLabel 6700 1350 0    50   Input ~ 0
+ROW1
+Text GLabel 6700 1950 0    50   Input ~ 0
+ROW2
+Text GLabel 6900 4350 0    50   Input ~ 0
+B6
+Text GLabel 2200 4300 2    50   Input ~ 0
+B2
+Text GLabel 2200 4200 2    50   Input ~ 0
+B1
+Text GLabel 2200 4400 2    50   Input ~ 0
+B3
+Wire Wire Line
+	2200 4300 2800 4300
+Text GLabel 2200 5300 2    50   Input ~ 0
+D0
+Text GLabel 2200 5400 2    50   Input ~ 0
+D1
+Text GLabel 6900 3550 0    50   Input ~ 0
+B2
+Text GLabel 6900 3450 0    50   Input ~ 0
+B1
+Text GLabel 6900 3750 0    50   Input ~ 0
+D2
+Wire Wire Line
+	6700 3550 6900 3550
+Connection ~ 6900 3550
+Wire Wire Line
+	6700 3750 6900 3750
+Connection ~ 6900 3750
+Text GLabel 6900 2850 0    50   Input ~ 0
+D6
+Text GLabel 6900 3050 0    50   Input ~ 0
+D5
+Text GLabel 6900 3650 0    50   Input ~ 0
+B3
+Wire Wire Line
+	6700 2650 6900 2650
+Connection ~ 6900 2650
+Wire Wire Line
+	6700 2850 6900 2850
+Connection ~ 6900 2850
+Wire Wire Line
+	6700 3050 6900 3050
+Connection ~ 6900 3050
+Wire Wire Line
+	6700 2150 6900 2150
+Connection ~ 6900 2150
+Wire Wire Line
+	6700 1950 6900 1950
+Connection ~ 6900 1950
+Wire Wire Line
+	6700 1750 6900 1750
+Connection ~ 6900 1750
+Wire Wire Line
+	6700 4350 6900 4350
+Connection ~ 6900 4350
+Wire Wire Line
+	6700 1350 6900 1350
+Connection ~ 6900 1350
+Text GLabel 6900 1150 0    50   Input ~ 0
+D1
+Text GLabel 6900 1250 0    50   Input ~ 0
+D0
+Wire Wire Line
+	6700 1150 6900 1150
+Connection ~ 6900 1150
+Wire Wire Line
+	6700 1250 6900 1250
+Connection ~ 6900 1250
+Wire Wire Line
+	6900 1250 7400 1250
 $EndSCHEMATC
