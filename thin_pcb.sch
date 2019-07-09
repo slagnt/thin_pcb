@@ -407,13 +407,13 @@ Text GLabel 9050 5800 2    50   Input ~ 0
 SDA
 Text GLabel 9050 5700 2    50   Input ~ 0
 SCL
-Text GLabel 3350 4800 3    50   Input ~ 0
-MISO
-Text GLabel 3250 4800 3    50   Input ~ 0
-MOSI
-Text GLabel 3150 4800 3    50   Input ~ 0
-SCLK
 Text GLabel 3450 4800 3    50   Input ~ 0
+MISO
+Text GLabel 3350 4800 3    50   Input ~ 0
+MOSI
+Text GLabel 3250 4800 3    50   Input ~ 0
+SCLK
+Text GLabel 3150 4800 3    50   Input ~ 0
 RESET
 $Comp
 L power:GND #PWR0118
@@ -2969,8 +2969,6 @@ Wire Wire Line
 Wire Wire Line
 	6900 3050 7400 3050
 Connection ~ 7400 3050
-Wire Wire Line
-	7900 3150 7400 3150
 Connection ~ 7400 3150
 Wire Wire Line
 	7400 3150 6900 3150
