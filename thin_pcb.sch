@@ -2903,7 +2903,7 @@ Text GLabel 2200 5400 2    50   Input ~ 0
 D1
 Text GLabel 6900 3550 0    50   Input ~ 0
 B2
-Text GLabel 6900 3450 0    50   Input ~ 0
+Text GLabel 6900 3650 0    50   Input ~ 0
 B1
 Text GLabel 6900 3750 0    50   Input ~ 0
 D2
@@ -2911,7 +2911,7 @@ Text GLabel 6900 2850 0    50   Input ~ 0
 D6
 Text GLabel 6900 3050 0    50   Input ~ 0
 D5
-Text GLabel 6900 3650 0    50   Input ~ 0
+Text GLabel 6900 3450 0    50   Input ~ 0
 B3
 Text GLabel 6900 1150 0    50   Input ~ 0
 D1
