@@ -1331,7 +1331,7 @@ U 1 1 5D12890D
 P 10600 1950
 F 0 "J28" H 10700 2300 50  0000 L CNN
 F 1 "Conn_01x07" H 10400 2400 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 10600 1950 50  0001 C CNN
+F 2 "lib:PinSocket_1x07_P2.54mm_Vertical" H 10600 1950 50  0001 C CNN
 F 3 "~" H 10600 1950 50  0001 C CNN
 	1    10600 1950
 	1    0    0    -1  
@@ -1342,7 +1342,7 @@ U 1 1 5D128AFA
 P 10600 2850
 F 0 "J38" H 10700 3200 50  0000 L CNN
 F 1 "Conn_01x07" H 10400 3300 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 10600 2850 50  0001 C CNN
+F 2 "lib:PinSocket_1x07_P2.54mm_Vertical" H 10600 2850 50  0001 C CNN
 F 3 "~" H 10600 2850 50  0001 C CNN
 	1    10600 2850
 	1    0    0    -1  
@@ -1353,7 +1353,7 @@ U 1 1 5D128C3B
 P 10600 1250
 F 0 "J18" H 10700 1400 50  0000 L CNN
 F 1 "Conn_01x03" H 10400 1500 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" H 10600 1250 50  0001 C CNN
+F 2 "lib:PinSocket_1x03_P2.54mm_Vertical" H 10600 1250 50  0001 C CNN
 F 3 "~" H 10600 1250 50  0001 C CNN
 	1    10600 1250
 	1    0    0    -1  
@@ -1364,7 +1364,7 @@ U 1 1 5D128D19
 P 10600 4350
 F 0 "J58" H 10680 4392 50  0000 L CNN
 F 1 "Conn_01x01" H 10400 4500 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical" H 10600 4350 50  0001 C CNN
+F 2 "lib:PinSocket_1x01_P2.54mm_Vertical" H 10600 4350 50  0001 C CNN
 F 3 "~" H 10600 4350 50  0001 C CNN
 	1    10600 4350
 	1    0    0    -1  
@@ -1375,7 +1375,7 @@ U 1 1 5D128E5E
 P 10600 3750
 F 0 "J48" H 10700 4100 50  0000 L CNN
 F 1 "Conn_01x04" H 10400 4200 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 10600 3750 50  0001 C CNN
+F 2 "lib:PinSocket_1x07_P2.54mm_Vertical" H 10600 3750 50  0001 C CNN
 F 3 "~" H 10600 3750 50  0001 C CNN
 	1    10600 3750
 	1    0    0    -1  
@@ -1386,7 +1386,7 @@ U 1 1 5D135711
 P 3750 4150
 F 0 "J6" H 3900 4250 50  0000 L CNN
 F 1 "Conn_02x02" H 3400 4250 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x02_P2.54mm_Vertical" H 3750 4150 50  0001 C CNN
+F 2 "lib:PinSocket_2x02_P2.54mm_Vertical" H 3750 4150 50  0001 C CNN
 F 3 "~" H 3750 4150 50  0001 C CNN
 	1    3750 4150
 	1    0    0    -1  
@@ -1397,7 +1397,7 @@ U 1 1 5D141D0D
 P 4100 4600
 F 0 "J5" V 4200 4300 50  0000 C CNN
 F 1 "Conn_01x06" V 4200 4600 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical" H 4100 4600 50  0001 C CNN
+F 2 "lib:PinSocket_1x06_P2.54mm_Vertical" H 4100 4600 50  0001 C CNN
 F 3 "~" H 4100 4600 50  0001 C CNN
 	1    4100 4600
 	0    -1   -1   0   
@@ -1414,7 +1414,7 @@ U 1 1 5D1C7444
 P 10100 1950
 F 0 "J27" H 10200 2300 50  0000 L CNN
 F 1 "Conn_01x07" H 9900 2400 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 10100 1950 50  0001 C CNN
+F 2 "lib:PinSocket_1x07_P2.54mm_Vertical" H 10100 1950 50  0001 C CNN
 F 3 "~" H 10100 1950 50  0001 C CNN
 	1    10100 1950
 	1    0    0    -1  
@@ -1425,7 +1425,7 @@ U 1 1 5D1C744B
 P 10100 2850
 F 0 "J37" H 10200 3200 50  0000 L CNN
 F 1 "Conn_01x07" H 9900 3300 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 10100 2850 50  0001 C CNN
+F 2 "lib:PinSocket_1x07_P2.54mm_Vertical" H 10100 2850 50  0001 C CNN
 F 3 "~" H 10100 2850 50  0001 C CNN
 	1    10100 2850
 	1    0    0    -1  
@@ -1436,7 +1436,7 @@ U 1 1 5D1C7452
 P 10100 1250
 F 0 "J17" H 10200 1400 50  0000 L CNN
 F 1 "Conn_01x03" H 9900 1500 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" H 10100 1250 50  0001 C CNN
+F 2 "lib:PinSocket_1x03_P2.54mm_Vertical" H 10100 1250 50  0001 C CNN
 F 3 "~" H 10100 1250 50  0001 C CNN
 	1    10100 1250
 	1    0    0    -1  
@@ -1447,7 +1447,7 @@ U 1 1 5D1C7459
 P 10100 4350
 F 0 "J57" H 10180 4392 50  0000 L CNN
 F 1 "Conn_01x01" H 9900 4500 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical" H 10100 4350 50  0001 C CNN
+F 2 "lib:PinSocket_1x01_P2.54mm_Vertical" H 10100 4350 50  0001 C CNN
 F 3 "~" H 10100 4350 50  0001 C CNN
 	1    10100 4350
 	1    0    0    -1  
@@ -1458,7 +1458,7 @@ U 1 1 5D1C7460
 P 10100 3750
 F 0 "J47" H 10200 4100 50  0000 L CNN
 F 1 "Conn_01x04" H 9900 4200 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 10100 3750 50  0001 C CNN
+F 2 "lib:PinSocket_1x07_P2.54mm_Vertical" H 10100 3750 50  0001 C CNN
 F 3 "~" H 10100 3750 50  0001 C CNN
 	1    10100 3750
 	1    0    0    -1  
@@ -1469,7 +1469,7 @@ U 1 1 5D1CA131
 P 9600 1950
 F 0 "J26" H 9700 2300 50  0000 L CNN
 F 1 "Conn_01x07" H 9400 2400 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 9600 1950 50  0001 C CNN
+F 2 "lib:PinSocket_1x07_P2.54mm_Vertical" H 9600 1950 50  0001 C CNN
 F 3 "~" H 9600 1950 50  0001 C CNN
 	1    9600 1950
 	1    0    0    -1  
@@ -1480,7 +1480,7 @@ U 1 1 5D1CA138
 P 9600 2850
 F 0 "J36" H 9700 3200 50  0000 L CNN
 F 1 "Conn_01x07" H 9400 3300 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 9600 2850 50  0001 C CNN
+F 2 "lib:PinSocket_1x07_P2.54mm_Vertical" H 9600 2850 50  0001 C CNN
 F 3 "~" H 9600 2850 50  0001 C CNN
 	1    9600 2850
 	1    0    0    -1  
@@ -1491,7 +1491,7 @@ U 1 1 5D1CA13F
 P 9600 1250
 F 0 "J16" H 9700 1400 50  0000 L CNN
 F 1 "Conn_01x03" H 9400 1500 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" H 9600 1250 50  0001 C CNN
+F 2 "lib:PinSocket_1x03_P2.54mm_Vertical" H 9600 1250 50  0001 C CNN
 F 3 "~" H 9600 1250 50  0001 C CNN
 	1    9600 1250
 	1    0    0    -1  
@@ -1502,7 +1502,7 @@ U 1 1 5D1CA146
 P 9600 4350
 F 0 "J56" H 9680 4392 50  0000 L CNN
 F 1 "Conn_01x01" H 9400 4500 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical" H 9600 4350 50  0001 C CNN
+F 2 "lib:PinSocket_1x01_P2.54mm_Vertical" H 9600 4350 50  0001 C CNN
 F 3 "~" H 9600 4350 50  0001 C CNN
 	1    9600 4350
 	1    0    0    -1  
@@ -1513,7 +1513,7 @@ U 1 1 5D1CA14D
 P 9600 3750
 F 0 "J46" H 9700 4100 50  0000 L CNN
 F 1 "Conn_01x04" H 9400 4200 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 9600 3750 50  0001 C CNN
+F 2 "lib:PinSocket_1x07_P2.54mm_Vertical" H 9600 3750 50  0001 C CNN
 F 3 "~" H 9600 3750 50  0001 C CNN
 	1    9600 3750
 	1    0    0    -1  
@@ -1524,7 +1524,7 @@ U 1 1 5D1CCE2D
 P 9100 1950
 F 0 "J25" H 9200 2300 50  0000 L CNN
 F 1 "Conn_01x07" H 8900 2400 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 9100 1950 50  0001 C CNN
+F 2 "lib:PinSocket_1x07_P2.54mm_Vertical" H 9100 1950 50  0001 C CNN
 F 3 "~" H 9100 1950 50  0001 C CNN
 	1    9100 1950
 	1    0    0    -1  
@@ -1535,7 +1535,7 @@ U 1 1 5D1CCE34
 P 9100 2850
 F 0 "J35" H 9200 3200 50  0000 L CNN
 F 1 "Conn_01x07" H 8900 3300 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 9100 2850 50  0001 C CNN
+F 2 "lib:PinSocket_1x07_P2.54mm_Vertical" H 9100 2850 50  0001 C CNN
 F 3 "~" H 9100 2850 50  0001 C CNN
 	1    9100 2850
 	1    0    0    -1  
@@ -1546,7 +1546,7 @@ U 1 1 5D1CCE3B
 P 9100 1250
 F 0 "J15" H 9200 1400 50  0000 L CNN
 F 1 "Conn_01x03" H 8900 1500 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" H 9100 1250 50  0001 C CNN
+F 2 "lib:PinSocket_1x03_P2.54mm_Vertical" H 9100 1250 50  0001 C CNN
 F 3 "~" H 9100 1250 50  0001 C CNN
 	1    9100 1250
 	1    0    0    -1  
@@ -1557,7 +1557,7 @@ U 1 1 5D1CCE42
 P 9100 4350
 F 0 "J55" H 9180 4392 50  0000 L CNN
 F 1 "Conn_01x01" H 8900 4500 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical" H 9100 4350 50  0001 C CNN
+F 2 "lib:PinSocket_1x01_P2.54mm_Vertical" H 9100 4350 50  0001 C CNN
 F 3 "~" H 9100 4350 50  0001 C CNN
 	1    9100 4350
 	1    0    0    -1  
@@ -1568,7 +1568,7 @@ U 1 1 5D1CCE49
 P 9100 3750
 F 0 "J45" H 9200 4100 50  0000 L CNN
 F 1 "Conn_01x04" H 8900 4200 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 9100 3750 50  0001 C CNN
+F 2 "lib:PinSocket_1x07_P2.54mm_Vertical" H 9100 3750 50  0001 C CNN
 F 3 "~" H 9100 3750 50  0001 C CNN
 	1    9100 3750
 	1    0    0    -1  
@@ -1579,7 +1579,7 @@ U 1 1 5D1D574D
 P 8600 1950
 F 0 "J24" H 8700 2300 50  0000 L CNN
 F 1 "Conn_01x07" H 8400 2400 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 8600 1950 50  0001 C CNN
+F 2 "lib:PinSocket_1x07_P2.54mm_Vertical" H 8600 1950 50  0001 C CNN
 F 3 "~" H 8600 1950 50  0001 C CNN
 	1    8600 1950
 	1    0    0    -1  
@@ -1590,7 +1590,7 @@ U 1 1 5D1D5754
 P 8600 2850
 F 0 "J34" H 8700 3200 50  0000 L CNN
 F 1 "Conn_01x07" H 8400 3300 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 8600 2850 50  0001 C CNN
+F 2 "lib:PinSocket_1x07_P2.54mm_Vertical" H 8600 2850 50  0001 C CNN
 F 3 "~" H 8600 2850 50  0001 C CNN
 	1    8600 2850
 	1    0    0    -1  
@@ -1601,7 +1601,7 @@ U 1 1 5D1D575B
 P 8600 1250
 F 0 "J14" H 8700 1400 50  0000 L CNN
 F 1 "Conn_01x03" H 8400 1500 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" H 8600 1250 50  0001 C CNN
+F 2 "lib:PinSocket_1x03_P2.54mm_Vertical" H 8600 1250 50  0001 C CNN
 F 3 "~" H 8600 1250 50  0001 C CNN
 	1    8600 1250
 	1    0    0    -1  
@@ -1612,7 +1612,7 @@ U 1 1 5D1D5762
 P 8600 4350
 F 0 "J54" H 8680 4392 50  0000 L CNN
 F 1 "Conn_01x01" H 8400 4500 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical" H 8600 4350 50  0001 C CNN
+F 2 "lib:PinSocket_1x01_P2.54mm_Vertical" H 8600 4350 50  0001 C CNN
 F 3 "~" H 8600 4350 50  0001 C CNN
 	1    8600 4350
 	1    0    0    -1  
@@ -1623,7 +1623,7 @@ U 1 1 5D1D5769
 P 8600 3750
 F 0 "J44" H 8700 4100 50  0000 L CNN
 F 1 "Conn_01x04" H 8400 4200 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 8600 3750 50  0001 C CNN
+F 2 "lib:PinSocket_1x07_P2.54mm_Vertical" H 8600 3750 50  0001 C CNN
 F 3 "~" H 8600 3750 50  0001 C CNN
 	1    8600 3750
 	1    0    0    -1  
@@ -1634,7 +1634,7 @@ U 1 1 5D1D5784
 P 8100 1950
 F 0 "J23" H 8200 2300 50  0000 L CNN
 F 1 "Conn_01x07" H 7900 2400 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 8100 1950 50  0001 C CNN
+F 2 "lib:PinSocket_1x07_P2.54mm_Vertical" H 8100 1950 50  0001 C CNN
 F 3 "~" H 8100 1950 50  0001 C CNN
 	1    8100 1950
 	1    0    0    -1  
@@ -1645,7 +1645,7 @@ U 1 1 5D1D578B
 P 8100 2850
 F 0 "J33" H 8200 3200 50  0000 L CNN
 F 1 "Conn_01x07" H 7900 3300 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 8100 2850 50  0001 C CNN
+F 2 "lib:PinSocket_1x07_P2.54mm_Vertical" H 8100 2850 50  0001 C CNN
 F 3 "~" H 8100 2850 50  0001 C CNN
 	1    8100 2850
 	1    0    0    -1  
@@ -1656,7 +1656,7 @@ U 1 1 5D1D5792
 P 8100 1250
 F 0 "J13" H 8200 1400 50  0000 L CNN
 F 1 "Conn_01x03" H 7900 1500 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" H 8100 1250 50  0001 C CNN
+F 2 "lib:PinSocket_1x03_P2.54mm_Vertical" H 8100 1250 50  0001 C CNN
 F 3 "~" H 8100 1250 50  0001 C CNN
 	1    8100 1250
 	1    0    0    -1  
@@ -1667,7 +1667,7 @@ U 1 1 5D1D5799
 P 8100 4350
 F 0 "J53" H 8200 4400 50  0000 L CNN
 F 1 "Conn_01x01" H 7900 4500 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical" H 8100 4350 50  0001 C CNN
+F 2 "lib:PinSocket_1x01_P2.54mm_Vertical" H 8100 4350 50  0001 C CNN
 F 3 "~" H 8100 4350 50  0001 C CNN
 	1    8100 4350
 	1    0    0    -1  
@@ -1678,7 +1678,7 @@ U 1 1 5D1D57A0
 P 8100 3750
 F 0 "J43" H 8200 4100 50  0000 L CNN
 F 1 "Conn_01x04" H 7900 4200 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 8100 3750 50  0001 C CNN
+F 2 "lib:PinSocket_1x07_P2.54mm_Vertical" H 8100 3750 50  0001 C CNN
 F 3 "~" H 8100 3750 50  0001 C CNN
 	1    8100 3750
 	1    0    0    -1  
@@ -1689,7 +1689,7 @@ U 1 1 5D1D57BB
 P 7600 1950
 F 0 "J22" H 7700 2300 50  0000 L CNN
 F 1 "Conn_01x07" H 7400 2400 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 7600 1950 50  0001 C CNN
+F 2 "lib:PinSocket_1x07_P2.54mm_Vertical" H 7600 1950 50  0001 C CNN
 F 3 "~" H 7600 1950 50  0001 C CNN
 	1    7600 1950
 	1    0    0    -1  
@@ -1700,7 +1700,7 @@ U 1 1 5D1D57C2
 P 7600 2850
 F 0 "J32" H 7700 3200 50  0000 L CNN
 F 1 "Conn_01x07" H 7400 3300 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 7600 2850 50  0001 C CNN
+F 2 "lib:PinSocket_1x07_P2.54mm_Vertical" H 7600 2850 50  0001 C CNN
 F 3 "~" H 7600 2850 50  0001 C CNN
 	1    7600 2850
 	1    0    0    -1  
@@ -1711,7 +1711,7 @@ U 1 1 5D1D57C9
 P 7600 1250
 F 0 "J12" H 7700 1400 50  0000 L CNN
 F 1 "Conn_01x03" H 7400 1500 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" H 7600 1250 50  0001 C CNN
+F 2 "lib:PinSocket_1x03_P2.54mm_Vertical" H 7600 1250 50  0001 C CNN
 F 3 "~" H 7600 1250 50  0001 C CNN
 	1    7600 1250
 	1    0    0    -1  
@@ -1722,7 +1722,7 @@ U 1 1 5D1D57D0
 P 7600 4350
 F 0 "J52" H 7700 4400 50  0000 L CNN
 F 1 "Conn_01x01" H 7400 4500 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical" H 7600 4350 50  0001 C CNN
+F 2 "lib:PinSocket_1x01_P2.54mm_Vertical" H 7600 4350 50  0001 C CNN
 F 3 "~" H 7600 4350 50  0001 C CNN
 	1    7600 4350
 	1    0    0    -1  
@@ -1733,7 +1733,7 @@ U 1 1 5D1D57D7
 P 7600 3750
 F 0 "J42" H 7700 4100 50  0000 L CNN
 F 1 "Conn_01x04" H 7400 4200 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 7600 3750 50  0001 C CNN
+F 2 "lib:PinSocket_1x07_P2.54mm_Vertical" H 7600 3750 50  0001 C CNN
 F 3 "~" H 7600 3750 50  0001 C CNN
 	1    7600 3750
 	1    0    0    -1  
@@ -1744,7 +1744,7 @@ U 1 1 5D1D57F2
 P 7100 1950
 F 0 "J21" H 7200 2300 50  0000 L CNN
 F 1 "Conn_01x07" H 6900 2400 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 7100 1950 50  0001 C CNN
+F 2 "lib:PinSocket_1x07_P2.54mm_Vertical" H 7100 1950 50  0001 C CNN
 F 3 "~" H 7100 1950 50  0001 C CNN
 	1    7100 1950
 	1    0    0    -1  
@@ -1755,7 +1755,7 @@ U 1 1 5D1D57F9
 P 7100 2850
 F 0 "J31" H 7200 3200 50  0000 L CNN
 F 1 "Conn_01x07" H 6900 3300 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 7100 2850 50  0001 C CNN
+F 2 "lib:PinSocket_1x07_P2.54mm_Vertical" H 7100 2850 50  0001 C CNN
 F 3 "~" H 7100 2850 50  0001 C CNN
 	1    7100 2850
 	1    0    0    -1  
@@ -1766,7 +1766,7 @@ U 1 1 5D1D5800
 P 7100 1250
 F 0 "J11" H 7200 1400 50  0000 L CNN
 F 1 "Conn_01x03" H 6900 1500 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" H 7100 1250 50  0001 C CNN
+F 2 "lib:PinSocket_1x03_P2.54mm_Vertical" H 7100 1250 50  0001 C CNN
 F 3 "~" H 7100 1250 50  0001 C CNN
 	1    7100 1250
 	1    0    0    -1  
@@ -1777,7 +1777,7 @@ U 1 1 5D1D5807
 P 7100 4350
 F 0 "J51" H 7200 4400 50  0000 L CNN
 F 1 "Conn_01x01" H 6900 4500 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical" H 7100 4350 50  0001 C CNN
+F 2 "lib:PinSocket_1x01_P2.54mm_Vertical" H 7100 4350 50  0001 C CNN
 F 3 "~" H 7100 4350 50  0001 C CNN
 	1    7100 4350
 	1    0    0    -1  
@@ -1788,7 +1788,7 @@ U 1 1 5D1D580E
 P 7100 3750
 F 0 "J41" H 7200 4100 50  0000 L CNN
 F 1 "Conn_01x04" H 6900 4200 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 7100 3750 50  0001 C CNN
+F 2 "lib:PinSocket_1x07_P2.54mm_Vertical" H 7100 3750 50  0001 C CNN
 F 3 "~" H 7100 3750 50  0001 C CNN
 	1    7100 3750
 	1    0    0    -1  
@@ -1799,7 +1799,7 @@ U 1 1 5D13CA52
 P 4700 7400
 F 0 "J7" H 4780 7392 50  0000 L CNN
 F 1 "Conn_01x02" H 4780 7301 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" H 4700 7400 50  0001 C CNN
+F 2 "lib:PinSocket_1x02_P2.54mm_Vertical" H 4700 7400 50  0001 C CNN
 F 3 "~" H 4700 7400 50  0001 C CNN
 	1    4700 7400
 	1    0    0    -1  
@@ -1901,7 +1901,7 @@ U 1 1 5D30A7DD
 P 7100 750
 F 0 "J01" H 7200 800 50  0000 L CNN
 F 1 "Conn_01x02" H 6900 900 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" H 7100 750 50  0001 C CNN
+F 2 "lib:PinSocket_1x02_P2.54mm_Vertical" H 7100 750 50  0001 C CNN
 F 3 "~" H 7100 750 50  0001 C CNN
 	1    7100 750 
 	1    0    0    -1  
@@ -1934,7 +1934,7 @@ U 1 1 5D30BAF6
 P 7600 750
 F 0 "J02" H 7700 800 50  0000 L CNN
 F 1 "Conn_01x02" H 7400 900 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" H 7600 750 50  0001 C CNN
+F 2 "lib:PinSocket_1x02_P2.54mm_Vertical" H 7600 750 50  0001 C CNN
 F 3 "~" H 7600 750 50  0001 C CNN
 	1    7600 750 
 	1    0    0    -1  
@@ -1945,7 +1945,7 @@ U 1 1 5D324FC9
 P 8600 750
 F 0 "J04" H 8700 800 50  0000 L CNN
 F 1 "Conn_01x02" H 8400 900 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" H 8600 750 50  0001 C CNN
+F 2 "lib:PinSocket_1x02_P2.54mm_Vertical" H 8600 750 50  0001 C CNN
 F 3 "~" H 8600 750 50  0001 C CNN
 	1    8600 750 
 	1    0    0    -1  
@@ -1956,7 +1956,7 @@ U 1 1 5D33E49F
 P 9600 750
 F 0 "J06" H 9700 800 50  0000 L CNN
 F 1 "Conn_01x02" H 9400 900 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" H 9600 750 50  0001 C CNN
+F 2 "lib:PinSocket_1x02_P2.54mm_Vertical" H 9600 750 50  0001 C CNN
 F 3 "~" H 9600 750 50  0001 C CNN
 	1    9600 750 
 	1    0    0    -1  
@@ -1967,7 +1967,7 @@ U 1 1 5D357976
 P 10100 750
 F 0 "J07" H 10200 800 50  0000 L CNN
 F 1 "Conn_01x02" H 9900 900 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" H 10100 750 50  0001 C CNN
+F 2 "lib:PinSocket_1x02_P2.54mm_Vertical" H 10100 750 50  0001 C CNN
 F 3 "~" H 10100 750 50  0001 C CNN
 	1    10100 750 
 	1    0    0    -1  
@@ -1978,7 +1978,7 @@ U 1 1 5D370E52
 P 10600 750
 F 0 "J08" H 10700 800 50  0000 L CNN
 F 1 "Conn_01x02" H 10400 900 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" H 10600 750 50  0001 C CNN
+F 2 "lib:PinSocket_1x02_P2.54mm_Vertical" H 10600 750 50  0001 C CNN
 F 3 "~" H 10600 750 50  0001 C CNN
 	1    10600 750 
 	1    0    0    -1  
@@ -2621,7 +2621,7 @@ U 1 1 5D78008C
 P 3350 4600
 F 0 "J4" V 3450 4300 50  0000 C CNN
 F 1 "Conn_01x06" V 3450 4600 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical" H 3350 4600 50  0001 C CNN
+F 2 "lib:PinSocket_1x06_P2.54mm_Vertical" H 3350 4600 50  0001 C CNN
 F 3 "~" H 3350 4600 50  0001 C CNN
 	1    3350 4600
 	0    -1   -1   0   
