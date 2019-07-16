@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "D:\\Dropbox\\Dropbox\\My Documents\\ThinPCB\\thin_pcb\\thin_pcb.sch")
-    (date "15.07.2019 9:41:11")
+    (date "16.07.2019 19:36:09")
     (tool "Eeschema (5.0.2)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
