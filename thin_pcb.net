@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "D:\\Dropbox\\Dropbox\\My Documents\\ThinPCB\\thin_pcb\\thin_pcb.sch")
-    (date "20.07.2019 12:37:23")
+    (date "20.07.2019 19:27:47")
     (tool "Eeschema (5.0.2)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -31,7 +31,7 @@
       (tstamp 5CFBE2E4))
     (comp (ref SWR1)
       (value SW_Push)
-      (footprint Button_Switch_SMD:SW_SPST_EVQP7C)
+      (footprint lib:SW_Reset)
       (libsource (lib Switch) (part SW_Push) (description "Push button switch, generic, two pins"))
       (sheetpath (names /) (tstamps /))
       (tstamp 5CFBE3D0))
