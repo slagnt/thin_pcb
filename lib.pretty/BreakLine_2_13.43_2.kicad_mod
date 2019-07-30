@@ -1,4 +1,4 @@
-(module BreakLine_2_13.43_2 (layer F.Cu) (tedit 5D258C3E)
+(module BreakLine_2_13.43_2 (layer F.Cu) (tedit 5D387E8E)
   (descr "Mounting Hole 2.2mm, no annular, M2")
   (tags "mounting hole 2.2mm no annular m2")
   (attr virtual)
@@ -8,7 +8,7 @@
   (fp_text value BreakLine_2_13.43_2 (at 1.27 17.78) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (pad "" np_thru_hole oval (at 0 0) (size 1 2) (drill oval 1 2) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole oval (at 0 16.51) (size 1 2) (drill oval 1 2) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole oval (at 0 8.255) (size 1 13.43) (drill oval 1 13.43) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole oval (at 0 8.255) (size 1 13.33) (drill oval 1 13.33) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole oval (at 0 16.51) (size 1 1.9) (drill oval 1 1.9) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole oval (at 0 0) (size 1 1.9) (drill oval 1 1.9) (layers *.Cu *.Mask))
 )
