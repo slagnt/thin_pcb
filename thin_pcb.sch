@@ -1930,12 +1930,6 @@ Connection ~ 9400 850
 Connection ~ 9400 1350
 Connection ~ 9400 1850
 Wire Wire Line
-	9650 850  9950 850 
-Wire Wire Line
-	9650 1350 9950 1350
-Wire Wire Line
-	9650 1850 9950 1850
-Wire Wire Line
 	7950 850  8500 850 
 Connection ~ 8500 850 
 Connection ~ 9950 850 
@@ -2009,12 +2003,6 @@ Wire Wire Line
 	8500 1850 9400 1850
 Wire Wire Line
 	9100 2250 9100 2750
-Wire Wire Line
-	9400 850  9650 850 
-Wire Wire Line
-	9400 1350 9650 1350
-Wire Wire Line
-	9400 1850 9650 1850
 Wire Wire Line
 	9650 2250 9650 2750
 Wire Wire Line
@@ -3530,17 +3518,20 @@ Wire Wire Line
 Connection ~ 850  6350
 Wire Wire Line
 	850  6350 850  6550
-Connection ~ 9650 850 
 Wire Wire Line
 	9650 850  9650 1250
-Connection ~ 9650 1350
 Wire Wire Line
 	9650 1350 9650 1750
-Connection ~ 9650 1850
 Wire Wire Line
 	9650 1850 9650 2250
 Wire Wire Line
 	3250 5150 3250 5750
 Wire Wire Line
 	3250 5950 3250 6550
+Wire Wire Line
+	9400 1350 9950 1350
+Wire Wire Line
+	9400 850  9950 850 
+Wire Wire Line
+	9400 1850 9950 1850
 $EndSCHEMATC
