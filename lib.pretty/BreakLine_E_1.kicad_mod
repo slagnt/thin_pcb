@@ -1,0 +1,14 @@
+(module BreakLine_E_1 (layer F.Cu) (tedit 5D695813)
+  (descr "Mounting Hole 2.2mm, no annular, M2")
+  (tags "mounting hole 2.2mm no annular m2")
+  (attr virtual)
+  (fp_text reference REF** (at 0 -2.54) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value BreakLine_E_1 (at 0 21.59) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start 0 17.31) (end 0 19.05) (layer Eco1.User) (width 1))
+  (fp_line (start 0 3.34) (end 0 15.71) (layer Eco1.User) (width 1))
+  (fp_line (start 0 0) (end 0 1.74) (layer Eco1.User) (width 1))
+)
